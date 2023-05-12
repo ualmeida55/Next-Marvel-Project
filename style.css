@@ -1,3 +1,49 @@
-body{
-  background-color: rgb(73, 79, 142);
+body {
+  background-color: #393646;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Roboto", sans-serif;
+  padding: 10px;
+}
+
+.title {
+  color: #f4ece1ff;
+  font-weight: 700;
+  text-align: center;
+  max-width: 100%;
+  font-size: 25px
+}
+
+.content {
+  background-color: #6d5d6e;
+  color: #f4ece1ff;
+  border-radius: 10px;
+  padding: 2vh;
+  margin-top: 15px;
+}
+
+.projectName {
+  font-weight: 500;
+  font-style: italic;
+  font-size: 25px;
+}
+.premiereDate {
+  font-weight: 500;
+  font-style: italic;
+  font-size: 20px;
+}
+
+.nextProject {
+  font-weight: 500;
+}
+
+p {
+  font-weight: 400;
+}
+
+.posterImg {
+  max-width: 100%;
+  border-radius: 3%;
+  height: auto;
 }
