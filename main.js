@@ -16,7 +16,7 @@ fetch("https://dev.whenisthenextmcufilm.com/api")
     document.querySelector(".releaseDate").textContent = release_date;
     document.querySelector(".productionType").textContent = type;
     document.querySelector(".nextProject").textContent =
-      following_production.title;
+      following_production.title.toUpperCase();
     const posterImage = document.querySelector(".posterImg");
     posterImage.src = poster_url;
   });
