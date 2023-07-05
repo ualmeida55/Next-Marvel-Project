@@ -1,13 +1,14 @@
-# Next-Marvel-Project
-
-Deployed using Vercel: https://next-marvel-project.vercel.app/
+# Next Marvel Project
 
 Project that fetches data from external API to show the next Marvel project.
 
-Built with:  
-Javascript  
-HTML  
-CSS    
-Vite
+Deployed using Vercel: [Live Demo](https://next-marvel-project.vercel.app/)
 
-API by [DijolotSG](https://github.com/DiljotSG/MCU-Countdown)
+## Built with  
+- Javascript  
+- HTML  
+- CSS    
+- Vite
+
+## API
+Provided by [DijolotSG](https://github.com/DiljotSG/MCU-Countdown)
