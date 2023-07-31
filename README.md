@@ -1,6 +1,6 @@
 # Next Marvel Project
 
-Project that fetches data from external API to show the next Marvel project.
+Project that fetches data from an external API to show the next Marvel project.
 
 Deployed using Vercel: [Live Demo](https://next-marvel-project.vercel.app/)
 
